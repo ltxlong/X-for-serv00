@@ -1,3 +1,5 @@
+k0baya 新的保活方法貌似更加好，看k0baya的好了，my_x_base保留记录下
+
 >鸣谢 fscarmen2 的开源仓库 [fscarmen2/Argo-Xray-JS-PaaS](https://github.com/fscarmen2/Argo-Xray-JS-PaaS) ，本仓库是基于此仓库的基础进行了 FreeBSD 相关命令的替换，并根据 Serv00 的实际环境进行了部分功能的删减与增加。
 ----
 >**直连版本：[X-for-Serv00 Direct Branch](https://github.com/k0baya/X-for-serv00/tree/direct)**
